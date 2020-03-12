@@ -1,0 +1,19 @@
+D:\VB6 - C# Projelerim\social-media-self-control\Social Self-Control\bin\Debug\Social Media Self-Control.exe.config
+D:\VB6 - C# Projelerim\social-media-self-control\Social Self-Control\bin\Debug\Social Media Self-Control.exe
+D:\VB6 - C# Projelerim\social-media-self-control\Social Self-Control\bin\Debug\Social Media Self-Control.pdb
+D:\VB6 - C# Projelerim\social-media-self-control\Social Self-Control\bin\Debug\Hammock.ClientProfile.dll
+D:\VB6 - C# Projelerim\social-media-self-control\Social Self-Control\bin\Debug\HtmlAgilityPack.dll
+D:\VB6 - C# Projelerim\social-media-self-control\Social Self-Control\bin\Debug\Newtonsoft.Json.dll
+D:\VB6 - C# Projelerim\social-media-self-control\Social Self-Control\bin\Debug\TweetSharp.dll
+D:\VB6 - C# Projelerim\social-media-self-control\Social Self-Control\bin\Debug\Hammock.ClientProfile.pdb
+D:\VB6 - C# Projelerim\social-media-self-control\Social Self-Control\bin\Debug\HtmlAgilityPack.pdb
+D:\VB6 - C# Projelerim\social-media-self-control\Social Self-Control\bin\Debug\HtmlAgilityPack.xml
+D:\VB6 - C# Projelerim\social-media-self-control\Social Self-Control\bin\Debug\Newtonsoft.Json.xml
+D:\VB6 - C# Projelerim\social-media-self-control\Social Self-Control\bin\Debug\TweetSharp.pdb
+D:\VB6 - C# Projelerim\social-media-self-control\Social Self-Control\obj\Debug\Social Media Self-Control.csprojResolveAssemblyReference.cache
+D:\VB6 - C# Projelerim\social-media-self-control\Social Self-Control\obj\Debug\Social Media Self-Control.csproj.ResolveComReference.cache
+D:\VB6 - C# Projelerim\social-media-self-control\Social Self-Control\obj\Debug\Social_Self_Control.Form1.resources
+D:\VB6 - C# Projelerim\social-media-self-control\Social Self-Control\obj\Debug\Social_Media_Self_Control.Properties.Resources.resources
+D:\VB6 - C# Projelerim\social-media-self-control\Social Self-Control\obj\Debug\Social Media Self-Control.csproj.GenerateResource.Cache
+D:\VB6 - C# Projelerim\social-media-self-control\Social Self-Control\obj\Debug\Social Media Self-Control.exe
+D:\VB6 - C# Projelerim\social-media-self-control\Social Self-Control\obj\Debug\Social Media Self-Control.pdb
